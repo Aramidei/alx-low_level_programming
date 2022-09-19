@@ -4,7 +4,7 @@
 /**
  *
  * reset_to_98  - It reserts the value of a given integer to 98
- * n: parameter
+ * @n: parameter
  * Returns : nothing
  */
 
