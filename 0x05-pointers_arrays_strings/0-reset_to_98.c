@@ -3,9 +3,9 @@
 
 /**
  *
- * reset_to_98  - It reserts the value of a given integer to 98
- * @n: parameter
- * Return: nothing
+ *reset_to_98  - It reserts the value of a given integer to 98
+ *@n: parameter
+ *Return: nothing
  */
 
 void reset_to_98(int *n)
