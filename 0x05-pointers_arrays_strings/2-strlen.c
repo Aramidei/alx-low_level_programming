@@ -2,10 +2,10 @@
 
 
 /**
-*_strlen - This returns the length of a string 
-*@s: string
-*Return: returns length as integer;
-*/
+ *_strlen - This returns the length of a string 
+ *@s: string
+ *Return: returns length as integer;
+ */
 
 int _strlen(char *s)
 {
